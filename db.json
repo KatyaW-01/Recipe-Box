@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Mushroom Risotto",
+      "link": "https://www.allrecipes.com/recipe/85389/gourmet-mushroom-risotto/",
+      "image": "https://www.allrecipes.com/thmb/A-744cqJeCm4rIUauimtV5Ou-Jk=/160x90/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/85389-gourmet-mushroom-risotto-DDMFS-4x3-a8a80a8deb064c6a8f15452b808a0258.jpg"
+    },
+    {
+      "id": "2",
+      "name": "One Pot Healthy Orzo",
+      "link": "https://healthygirlkitchen.com/recipes/one-pot-healthy-orzo-10-minute-dinner/#recipe",
+      "image": "https://healthygirlkitchen.com/wp-content/uploads/2022/12/20221109-DSC00732-scaled.jpg.webp"
+    },
+    {
+      "id": "3",
+      "name": "Pasta with Ricotta and Lemon",
+      "link": "https://cooking.nytimes.com/recipes/1020290-one-pot-pasta-with-ricotta-and-lemon",
+      "image": "https://static01.nyt.com/images/2020/12/20/autossell/OnePot-Pasta-textless/OnePot-Pasta-textless-threeByTwoMediumAt2X.jpg?quality=75&auto=webp"
+    },
+    {
+      "id": "4",
+      "name": "Air Fryer Salmon Bites",
+      "link": "https://thebigmansworld.com/air-fryer-salmon-bites/#wprm-recipe-container-90145",
+      "image": "https://thebigmansworld.com/wp-content/uploads/2025/05/air-fryer-salmon-bites.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Thai Coconut Curry with Tofu",
+      "link": "https://www.liveeatlearn.com/weeknight-vegetarian-coconut-curry/#wprm-recipe-container-9656",
+      "image": "https://www.liveeatlearn.com/wp-content/uploads/2019/07/vegan-thai-red-curry-finished.jpg"
+    }
+  ]
+}
