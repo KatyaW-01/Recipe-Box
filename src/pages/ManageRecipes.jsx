@@ -5,6 +5,7 @@ function ManageRecipes() {
   return (
     <>
       <NavBar />
+      <p>Edit recipes here</p>
     </>
   )
 }
